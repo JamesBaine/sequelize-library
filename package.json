@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JamesBaine/sequelize-library/issues"
   },
-  "homepage": "https://github.com/JamesBaine/sequelize-library#readme"
+  "homepage": "https://github.com/JamesBaine/sequelize-library#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "sequelize": "^4.5.0"
+  }
 }
